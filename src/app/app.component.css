@@ -1,0 +1,10 @@
+.table input {
+    border: none;
+    border-bottom: 1px solid #3498db;
+    background: none;
+}
+
+.col-md-10 {
+    margin: 60px;
+    width: 83.33333333%;
+}
